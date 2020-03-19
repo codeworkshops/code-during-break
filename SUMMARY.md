@@ -7,5 +7,8 @@
 
 * [Lesson 1](lessons-1/lesson-1.md)
 * [Lesson 2](lessons-1/lesson-2.md)
+* [Lesson 3](lessons-1/lesson-3.md)
+
 * [Overview](overview.md)
+* [Glossary](GLOSSARY.md)
 
