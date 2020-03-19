@@ -1,4 +1,4 @@
-#Lesson 3
+# Lesson 3
 
 ## Overview
 
@@ -7,7 +7,6 @@
 Taking Decisions
 
 ## Links
-
 
 ## Exercises
 
