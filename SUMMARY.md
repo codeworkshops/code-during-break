@@ -6,4 +6,5 @@
   * [Lesson 2](lessons/lesson-2.md)
   * [Lesson 3](lessons/lesson-3.md)
 * [Overview](overview.md)
+* [Glossary](GLOSSARY.md)
 
