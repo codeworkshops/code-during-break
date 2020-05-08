@@ -6,3 +6,4 @@ description: At home coding
 
 Code during School Closure
 
+Introduction about the course.
