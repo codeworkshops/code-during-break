@@ -12,5 +12,11 @@ The exercises are built on top of the concepts leant within a given lesson. We e
 
 1 Python programming language has a lot of information for beginners to advanced programmers. If you are curious, check out [Python website](https://www.python.org) for more information.
 
+
+![Python](images/python-org.png)
+
+![Pencil Code](images/pencil-code.png)
+
+
 NOTE: No previous computer programming experience required!
 
