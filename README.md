@@ -6,4 +6,7 @@ description: At home coding
 
 Code during School Closure
 
+Site: https://codeworkshops.gitbook.io/code-school-closure/
+
+
 Introduction about the course.
