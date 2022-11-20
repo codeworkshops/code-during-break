@@ -20,3 +20,5 @@ The exercises are built on top of the concepts leant within a given lesson. We e
 
 NOTE: No previous computer programming experience required!
 
+
+Nov 20, 2022 - Rename to code-during-break !
